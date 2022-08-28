@@ -1,6 +1,6 @@
 
 global dos     "/Users/juanpalomino/Documents/GitHub/Analisis Espacial Pobreza/1. Do Files"
-global inputs  "/Users/juanpalomino/Documents/GitHub/Analisis Espacial Pobreza/2. Data"
+global inputs  "/Users/juanpalomino/Documents/GitHub/Analisis Espacial Pobreza/5. Shapefiles"
 global works   "/Users/juanpalomino/Documents/GitHub/Analisis Espacial Pobreza/3. Procesadas"
 global results "/Users/juanpalomino/Documents/GitHub/Analisis Espacial Pobreza/6. Resultados"
 cd "$inputs"
